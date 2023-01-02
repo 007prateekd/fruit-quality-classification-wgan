@@ -1,7 +1,8 @@
 # fruit-quality-classification-wgan
 
-## What
+**The paper has been published in IEEE UPCON22 and can be found [here](https://ieeexplore.ieee.org/document/9986472/).**
 
+## What
 This repository aims to solve the task of fruit quality classification given very limited data. The <a href="https://github.com/softwaremill/lemon-dataset">dataset</a> contains 2690 images of lemons which is too less to train a deep learning model, let alone use the model practically.
 
 ## Why
